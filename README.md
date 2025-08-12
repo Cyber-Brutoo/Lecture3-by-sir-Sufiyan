@@ -36,3 +36,18 @@ Pentesting Testing Process
 Planning, scanning, gaining acess, mantaining access, analysis and reporting
 Risk managment process
     Access the risk, monitor, respond,frame the risk
+Week 2 
+## LEcture # 1 by sir Hassan
+## Owasp top 10
+## Wappalyzer
+## Grabify
+## Tineye
+## Iplookup
+## Exiftools
+
+## Operating Systems
+
+os scan 
+version
+synscan
+aggressive scan
