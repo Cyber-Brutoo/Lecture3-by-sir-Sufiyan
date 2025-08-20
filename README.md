@@ -51,3 +51,27 @@ os scan
 version
 synscan
 aggressive scan
+
+#Week 3
+
+#Vulnerability scanning Tools
+#Nikto Tool
+Acunetix tool for vulnerability Scanning
+
+#sir Sami
+as a security assesor tell risk always
+digital ecosystem communicates web services, mobile apps
+whenever find vulnerability of a website compare it with OWASP top 10
+Vuknurabilitis
+software 
+hardware
+misconfiguration 
+        CIS Benchmarking, SCA tool
+unpatched system 
+        Nessus
+human authentication
+
+HeratBleed Bug ko study krna hai EQUIFAX is sy cryptography explore hogi
+
+CVE Common Vunerability Exposure
+National Vuaeerability Databse 
