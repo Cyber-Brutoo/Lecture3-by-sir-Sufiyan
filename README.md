@@ -74,4 +74,25 @@ human authentication
 HeratBleed Bug ko study krna hai EQUIFAX is sy cryptography explore hogi
 
 CVE Common Vunerability Exposure
-National Vuaeerability Databse 
+National Vuaeerability Database 
+
+## Week 3 Networking Sir Hassan
+
+Network
+LAN, WAN, MAN, IOT, Cloud Network, Data Transmission,the bits, Electrical Signals, Optical Signals, 
+
+## Layers of TCP/IP MOEDEL
+## Application Layer
+## Transport Layer
+## Internet
+## Network Access Layer
+
+## OSI MODEL
+## Attacks on OSI LAyers
+physical layer: Ethernet cutting, Key Logger
+Data link layer: 
+Network Layer: DOS Attack
+Important Transport Layer: Dos, Ping, DNS
+Important Session Layer: Session Hijacking, MITM Attack, 
+Important Presentation LAyer: MITM, Injection Attack
+Application Layer: SQL Injection, 
